@@ -20,7 +20,7 @@ img {
 }
 
 header {
-      background: #f8f8f8;
+      background: RGB(146, 168, 209, 0.5);
       padding: 2em 0;
       text-align: center;
       margin-bottom: 3em;
@@ -45,7 +45,7 @@ header {
 h1 {
       font-family: 'Lora', serif;
       font-size: 2rem;
-      color: #143774;
+      color: #224563;
       font-weight: 400;
       margin: 0;
       margin-top: 0;
@@ -54,21 +54,21 @@ h1 {
 .site-title .subtitle {
       font-family: 'Ubuntu', sans-serif;
       font-size: .75rem;
-      color: #1792D2;
+      color: rgb(121, 163, 242);
       font-weight: 700;
       margin: 0;
       letter-spacing: 0.19rem;
 }
 
 .article-body a {
-      color: #1792D2;
+      color: #92A8D1;
       text-decoration: underline;
       font-weight: 400;
 }
 
 .article-body a:hover,
 .article-body a:focus {
-      color: #143774;
+      color: rgb(34, 69, 99);
 }
 
 strong {
@@ -101,7 +101,7 @@ li {
 
 nav a:hover,
 nav a:focus {
-      color: #1792D2;
+      color: #92A8D1;
 }
 
 .current-page {
@@ -126,7 +126,7 @@ main h2 {
       font-family: 'Lora', serif;
       font-weight: 400;
       font-size: 1.5rem;
-      color: #143774;
+      color: rgb(34, 69, 99);
       margin-top: 0;
 }
 
@@ -145,7 +145,7 @@ main h2 {
       font-family: 'Ubuntu', sans-serif;
       font-weight: 700;
       font-size: 0.875rem;
-      color: #1792D2;
+      color: #92A8D1;
       text-transform: uppercase;
       letter-spacing: 0.175rem;
 }
@@ -154,7 +154,7 @@ main h2 {
 .article-read-more:focus {
       font-family: 'Ubuntu', sans-serif;
       font-size: 0.875rem;
-      color: #143774;
+      color: #224563;
       text-transform: uppercase;
       letter-spacing: 0.175rem;
       text-decoration: underline;
@@ -239,14 +239,14 @@ main h2 {
       font-family: 'Ubuntu', sans-serif;
       font-size: 1.125rem;
       font-weight: 700;
-      color: #143774;
+      color: rgb(34, 69, 99);
       text-transform: uppercase;
       letter-spacing: 0.225rem;
 }
 
 .sidebar .widget-body {
       font-family: 'Ubuntu', sans-serif;
-      color: #143774;
+      color: rgb(34, 69, 99);
       font-size: 0.875rem;
 }
 
@@ -254,11 +254,11 @@ main h2 {
       font-family: 'Lora', serif;
       font-weight: 400;
       font-size: 1.125rem;
-      color: #143774;
+      color: rgb(34, 69, 99);
 }
 
 .sidebar-widget {
-      border: 1.25rem solid #EBEBEB;
+      border: 1.25rem solid RGB(146, 168, 209, 0.5);
       padding: 1em;
       opacity: 1;
       margin-bottom: 2em;
@@ -283,17 +283,17 @@ main h2 {
 
 footer {
       font-family: 'Ubuntu', sans-serif;
-      background-color: #143774;
+      background-color:  #79a3f2;
       color: white;
       text-align: center;
-      padding: 3em 0;
+      padding: 1em 0;
 }
 
 .container-h3 {
       font-family: 'Lora', serif;
       font-size: 1.3125rem;
       font-weight: 400;
-      color: #1792D2;
+      color: #92A8D1;
 }
 
 .image-full {
