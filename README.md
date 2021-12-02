@@ -4,8 +4,7 @@
 ___
 
 ## Preview
-[Book blog] (https://galiiaaau.github.io/Galiiaaau.github.io-Galiia-s-blog/)
-
+[Book blog](https://galiiaaau.github.io/Galiiaaau.github.io-Galiia-s-blog/)
 ___
 
 ## Languages and Tools
