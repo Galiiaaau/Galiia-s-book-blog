@@ -10,3 +10,4 @@ ___
 ## Languages and Tools
 * HTML
 * CSS
+* Javascript
